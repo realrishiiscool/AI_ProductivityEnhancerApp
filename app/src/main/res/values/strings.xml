@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AI_ProductivityEnhancer</string>
+    <string name="accessibility_service_label">AI Productivity Enhancer</string>
+    <string name="default_web_client_id">PASTE_FROM_FIREBASE</string>
+
+</resources>
